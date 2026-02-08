@@ -100,6 +100,9 @@ If you use this work, please cite our paper:
 }
 ```
 
+## Leaderboard Post-competition Screenshot
+<img width="1513" height="1127" alt="image" src="https://github.com/user-attachments/assets/749c86dc-7838-4362-a396-e5d53b7765ca" />
+
 ## License
 
 This project is provided for research and educational purposes as part of the AgentDS Benchmark challenge.
